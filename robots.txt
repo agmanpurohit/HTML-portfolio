@@ -1,0 +1,5 @@
+# Update the Sitemap line when the real domain goes live.
+User-agent: *
+Allow: /
+
+Sitemap: https://agmanrajpurohit.com/sitemap.xml
